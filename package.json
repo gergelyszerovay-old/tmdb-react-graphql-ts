@@ -25,8 +25,8 @@
     "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
     "help": "nx help",
-    "docker": "ng serve --host app",
-    "docker-storybook": "nx run app-lib:storybook --host storybook",
+    "docker": "nx serve --host app",
+    "docker-storybook": "nx run lib:storybook --host storybook",
     "docker-e2e": "cypress install && nx e2e app-e2e --headless --record false",
     "test-all": "nx affected:test --all",
     "docker-test": "nx affected:test --all"

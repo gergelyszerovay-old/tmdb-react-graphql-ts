@@ -25,10 +25,6 @@ const useMovieListState = (): MovieListState => {
     fetchPolicy: "network-only"
   });
 
-  console.log(movieListTerm);
-  console.log(tmdbLoadMoviesError);
-  console.log(tmdbLoadMoviesData);
-
   useUpdateFetchState('QUERY_MOVIE_LIST', {
     errorMessage: tmdbLoadMoviesError?.message ? tmdbLoadMoviesError.message : '',
     loading: tmdbLoadMoviesLoading
