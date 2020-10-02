@@ -32,7 +32,7 @@ You can open the app here: http://localhost:4200/
 
 You can run Storybook with:
 
-`docker-compose up storybook` or `nx run app-lib:storybook`
+`docker-compose up storybook` or `nx run lib:storybook`
 
 You can open the Storybook here: http://localhost:4400/
 
