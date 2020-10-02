@@ -42,11 +42,12 @@ You can run the unit test with:
 
 `docker-compose up test-unit` or `nx affected:test --all`
 
-## I met with the following Apollo client issues during the development:
+## I met with the following Apollo Client issues during the development:
 * [MockedProvider causing test to complain about not using act() #5920](https://github.com/apollographql/apollo-client/issues/5920) - I use a workaround
 * [MockedProvider does not return data when fetchPolicy is set to "cache-and-network" #779](https://github.com/apollographql/react-apollo/issues/779) - I use a workaround
 * [Reactive variables: Updating nested properties doesn't trigger a re-render #6699](https://github.com/apollographql/apollo-client/issues/6699) - I use useReactiveVar hook to access the reactive variables
-
+* [useQuery stops updating after first network error #6759](https://github.com/apollographql/apollo-client/issues/6759)
+* [useQuery returns incorrect results when returning from the cache #3717](https://github.com/apollographql/react-apollo/issues/3717)
 ---
 
 This application uses the TMDb API but is not endorsed or certified by TMDb.

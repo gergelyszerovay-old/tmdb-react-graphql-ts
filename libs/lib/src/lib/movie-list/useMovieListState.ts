@@ -19,8 +19,15 @@ const useMovieListState = (): MovieListState => {
     skip: movieListTerm === '',
     variables: {
       term: movieListTerm
-    }
+    },
+
+    // https://github.com/apollographql/apollo-client/issues/6759 or https://github.com/apollographql/react-apollo/issues/3717
+    fetchPolicy: "network-only"
   });
+
+  console.log(movieListTerm);
+  console.log(tmdbLoadMoviesError);
+  console.log(tmdbLoadMoviesData);
 
   useUpdateFetchState('QUERY_MOVIE_LIST', {
     errorMessage: tmdbLoadMoviesError?.message ? tmdbLoadMoviesError.message : '',
