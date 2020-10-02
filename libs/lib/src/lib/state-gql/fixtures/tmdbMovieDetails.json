@@ -1,0 +1,702 @@
+{
+  "data": {
+    "movies": {
+      "__typename": "Movies",
+      "movie": {
+        "rating": 6,
+        "id": 126889,
+        "externalIds": {
+          "__typename": "ExternalIDS",
+          "imdb": "tt2316204"
+        },
+        "title": "Alien: Covenant",
+        "__typename": "DetailedMovie",
+        "details": {
+          "genres": [
+            {
+              "id": 27,
+              "name": "Horror",
+              "__typename": "Genre"
+            },
+            {
+              "id": 878,
+              "name": "Science Fiction",
+              "__typename": "Genre"
+            }
+          ],
+          "__typename": "DetailedMovie"
+        },
+        "similar": {
+          "__typename": "MovieConnection",
+          "edges": [
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0816692"
+                },
+                "id": 157336,
+                "title": "Interstellar",
+                "__typename": "__Movie",
+                "rating": 8.3,
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 18,
+                      "name": "Drama"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0078748"
+                },
+                "id": 348,
+                "rating": 8.1,
+                "title": "Alien",
+                "__typename": "__Movie",
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 8077,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0103644"
+                },
+                "rating": 6.3,
+                "__typename": "__Movie",
+                "title": "Alien³",
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 28,
+                      "name": "Action"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0047577"
+                },
+                "id": 831,
+                "rating": 5.8,
+                "__typename": "__Movie",
+                "title": "This Island Earth",
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 27727,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0426556"
+                },
+                "title": "Raging Sharks",
+                "__typename": "__Movie",
+                "rating": 5.1,
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0051786"
+                },
+                "id": 27179,
+                "rating": 5.8,
+                "__typename": "__Movie",
+                "title": "It! The Terror from Beyond Space",
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 384521,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt2548396"
+                },
+                "rating": 5.6,
+                "__typename": "__Movie",
+                "title": "The Cloverfield Paradox",
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 9648,
+                      "name": "Mystery"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 53,
+                      "name": "Thriller"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0371724"
+                },
+                "id": 7453,
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "__typename": "__Movie",
+                "rating": 6.7,
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 35,
+                      "name": "Comedy"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 10751,
+                      "name": "Family"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 2067,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0183523"
+                },
+                "title": "Mission to Mars",
+                "__typename": "__Movie",
+                "rating": 5.9,
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 53,
+                      "name": "Thriller"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 33155,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0080771"
+                },
+                "title": "Galaxina",
+                "__typename": "__Movie",
+                "rating": 4.2,
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 35,
+                      "name": "Comedy"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt1355644"
+                },
+                "id": 274870,
+                "title": "Passengers",
+                "rating": 6.9,
+                "__typename": "__Movie",
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 18,
+                      "name": "Drama"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 10749,
+                      "name": "Romance"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 19761,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0079285"
+                },
+                "title": "Saturn 3",
+                "__typename": "__Movie",
+                "rating": 5.4,
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 53,
+                      "name": "Thriller"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0762125"
+                },
+                "id": 16866,
+                "rating": 5.7,
+                "title": "Planet 51",
+                "__typename": "__Movie",
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 10751,
+                      "name": "Family"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 35,
+                      "name": "Comedy"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 16,
+                      "name": "Animation"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 679,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0090605"
+                },
+                "rating": 7.9,
+                "__typename": "__Movie",
+                "title": "Aliens",
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 28,
+                      "name": "Action"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 53,
+                      "name": "Thriller"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0133240"
+                },
+                "id": 9016,
+                "title": "Treasure Planet",
+                "__typename": "__Movie",
+                "rating": 7.5,
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 16,
+                      "name": "Animation"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 10751,
+                      "name": "Family"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 14,
+                      "name": "Fantasy"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 19995,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0499549"
+                },
+                "title": "Avatar",
+                "__typename": "__Movie",
+                "rating": 7.5,
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 28,
+                      "name": "Action"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 14,
+                      "name": "Fantasy"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 1091,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0084787"
+                },
+                "title": "The Thing",
+                "__typename": "__Movie",
+                "rating": 8,
+                "details": {
+                  "__typename": "DetailedMovie",
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 9648,
+                      "name": "Mystery"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ]
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 8078,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0118583"
+                },
+                "rating": 6.1,
+                "__typename": "__Movie",
+                "title": "Alien Resurrection",
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 27,
+                      "name": "Horror"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 28,
+                      "name": "Action"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt3748528"
+                },
+                "id": 330459,
+                "title": "Rogue One: A Star Wars Story",
+                "__typename": "__Movie",
+                "rating": 7.5,
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 28,
+                      "name": "Action"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            },
+            {
+              "node": {
+                "id": 644,
+                "externalIds": {
+                  "__typename": "ExternalIDS",
+                  "imdb": "tt0212720"
+                },
+                "rating": 7,
+                "__typename": "__Movie",
+                "title": "A.I. Artificial Intelligence",
+                "details": {
+                  "genres": [
+                    {
+                      "__typename": "Genre",
+                      "id": 18,
+                      "name": "Drama"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 878,
+                      "name": "Science Fiction"
+                    },
+                    {
+                      "__typename": "Genre",
+                      "id": 12,
+                      "name": "Adventure"
+                    }
+                  ],
+                  "__typename": "DetailedMovie"
+                }
+              },
+              "__typename": "MovieEdge"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

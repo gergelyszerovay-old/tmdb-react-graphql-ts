@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Storybook stories snapshot tests Story primary 1`] = `
+<div>
+  <header
+    class="MuiPaper-root-15 MuiAppBar-root-4 MuiAppBar-positionStatic-8 MuiAppBar-colorPrimary-11 MuiPaper-elevation4-22"
+  >
+    <div
+      class="MuiToolbar-root-43 MuiToolbar-regular-45 MuiToolbar-gutters-44"
+    >
+      <div
+        class="makeStyles-search-0"
+      >
+        <div
+          class="makeStyles-searchIcon-1"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root-47"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiInputBase-root-56 makeStyles-inputRoot-2"
+        >
+          <input
+            aria-label="search"
+            class="MuiInputBase-input-67 makeStyles-inputInput-3"
+            data-testid="search-input"
+            placeholder="Search…"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <button
+        class="MuiButtonBase-root-103 MuiButton-root-74 MuiButton-contained-82 MuiButton-containedSecondary-84"
+        data-testid="search-button"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label-75"
+        >
+          Search
+        </span>
+        <span
+          class="MuiTouchRipple-root-106"
+        />
+      </button>
+    </div>
+  </header>
+</div>
+`;

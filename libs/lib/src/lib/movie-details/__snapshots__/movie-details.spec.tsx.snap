@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieDetails Storybook stories snapshot tests Story empty 1`] = `null`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story error 1`] = `
+<div
+  class="MuiPaper-root-17 MuiAlert-root-1 MuiAlert-filledError-13 makeStyles-error-0 MuiPaper-elevation6-26"
+  role="alert"
+>
+  <div
+    class="MuiAlert-icon-14"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root-45 MuiSvgIcon-fontSizeInherit-51"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+      />
+    </svg>
+  </div>
+  <div
+    class="MuiAlert-message-15"
+  >
+    Can't load the movie details from the server!
+  </div>
+</div>
+`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story noExternalIds 1`] = `
+<div>
+  <h1>
+    Alien: Covenant
+  </h1>
+  <p>
+    <a
+      href="http://en.wikipedia.org/?curid=43219389"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Wikipedia
+    </a>
+  </p>
+  <div>
+    <button
+      class="MuiButtonBase-root-30 MuiButton-root-1 MuiButton-contained-9 MuiButton-containedSecondary-11"
+      data-testid="similar-movies-button"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label-2"
+      >
+        List similar movies
+      </span>
+      <span
+        class="MuiTouchRipple-root-33"
+      />
+    </button>
+  </div>
+  <p>
+    Alien: Covenant is a 2017 science fiction horror film directed and produced by Ridley Scott and written by John Logan and Dante Harper, from a story by Michael Green and Jack Paglen. A joint American and British production, the film is a sequel to Prometheus (2012) and is the second installment in the Alien prequel series and the sixth installment in the Alien franchise, as well as the third directed by Scott. The film features returning star Michael Fassbender and Katherine Waterston, with Billy Crudup, Danny McBride, and Demián Bichir in supporting roles. It follows the crew of a colony ship that lands on an uncharted planet and makes a terrifying discovery.
+In 2012, prior to the release of Prometheus, Ridley Scott discussed the prospects of a sequel and new trilogy, and the film was confirmed that August. Principal photography began on April 4, 2016, at Milford Sound in Fiordland National Park, New Zealand, and wrapped on July 19, 2016. Effects houses Odd Studios and CreatureNFX provided...
+  </p>
+</div>
+`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story noIMDBId 1`] = `
+<div>
+  <h1>
+    Alien: Covenant
+  </h1>
+  <p>
+    <a
+      href="http://en.wikipedia.org/?curid=43219389"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Wikipedia
+    </a>
+  </p>
+  <div>
+    <button
+      class="MuiButtonBase-root-30 MuiButton-root-1 MuiButton-contained-9 MuiButton-containedSecondary-11"
+      data-testid="similar-movies-button"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label-2"
+      >
+        List similar movies
+      </span>
+      <span
+        class="MuiTouchRipple-root-33"
+      />
+    </button>
+  </div>
+  <p>
+    Alien: Covenant is a 2017 science fiction horror film directed and produced by Ridley Scott and written by John Logan and Dante Harper, from a story by Michael Green and Jack Paglen. A joint American and British production, the film is a sequel to Prometheus (2012) and is the second installment in the Alien prequel series and the sixth installment in the Alien franchise, as well as the third directed by Scott. The film features returning star Michael Fassbender and Katherine Waterston, with Billy Crudup, Danny McBride, and Demián Bichir in supporting roles. It follows the crew of a colony ship that lands on an uncharted planet and makes a terrifying discovery.
+In 2012, prior to the release of Prometheus, Ridley Scott discussed the prospects of a sequel and new trilogy, and the film was confirmed that August. Principal photography began on April 4, 2016, at Milford Sound in Fiordland National Park, New Zealand, and wrapped on July 19, 2016. Effects houses Odd Studios and CreatureNFX provided...
+  </p>
+</div>
+`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story noSimilarMovies 1`] = `
+<div>
+  <h1>
+    Alien: Covenant
+  </h1>
+  <p>
+    <a
+      href="http://en.wikipedia.org/?curid=43219389"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Wikipedia
+    </a>
+  </p>
+  <div />
+  <p>
+    Alien: Covenant is a 2017 science fiction horror film directed and produced by Ridley Scott and written by John Logan and Dante Harper, from a story by Michael Green and Jack Paglen. A joint American and British production, the film is a sequel to Prometheus (2012) and is the second installment in the Alien prequel series and the sixth installment in the Alien franchise, as well as the third directed by Scott. The film features returning star Michael Fassbender and Katherine Waterston, with Billy Crudup, Danny McBride, and Demián Bichir in supporting roles. It follows the crew of a colony ship that lands on an uncharted planet and makes a terrifying discovery.
+In 2012, prior to the release of Prometheus, Ridley Scott discussed the prospects of a sequel and new trilogy, and the film was confirmed that August. Principal photography began on April 4, 2016, at Milford Sound in Fiordland National Park, New Zealand, and wrapped on July 19, 2016. Effects houses Odd Studios and CreatureNFX provided...
+  </p>
+</div>
+`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story noWikipediaExtract 1`] = `
+<div>
+  <h1>
+    Alien: Covenant
+  </h1>
+  <p>
+    <a
+      href="http://en.wikipedia.org/?curid=43219389"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Wikipedia
+    </a>
+  </p>
+  <div>
+    <button
+      class="MuiButtonBase-root-30 MuiButton-root-1 MuiButton-contained-9 MuiButton-containedSecondary-11"
+      data-testid="similar-movies-button"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label-2"
+      >
+        List similar movies
+      </span>
+      <span
+        class="MuiTouchRipple-root-33"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story noWikipediaExtractThreeDots 1`] = `
+<div>
+  <h1>
+    Alien: Covenant
+  </h1>
+  <p>
+    <a
+      href="http://en.wikipedia.org/?curid=43219389"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Wikipedia
+    </a>
+  </p>
+  <div>
+    <button
+      class="MuiButtonBase-root-30 MuiButton-root-1 MuiButton-contained-9 MuiButton-containedSecondary-11"
+      data-testid="similar-movies-button"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label-2"
+      >
+        List similar movies
+      </span>
+      <span
+        class="MuiTouchRipple-root-33"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story noWikipediaPageId 1`] = `
+<div>
+  <h1>
+    Alien: Covenant
+  </h1>
+  <p>
+    <a
+      href="https://www.imdb.com/title/tt2316204/"
+      rel="noreferrer"
+      target="_blank"
+    >
+      IMDB
+    </a>
+  </p>
+  <div>
+    <button
+      class="MuiButtonBase-root-30 MuiButton-root-1 MuiButton-contained-9 MuiButton-containedSecondary-11"
+      data-testid="similar-movies-button"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label-2"
+      >
+        List similar movies
+      </span>
+      <span
+        class="MuiTouchRipple-root-33"
+      />
+    </button>
+  </div>
+  <p>
+    Alien: Covenant is a 2017 science fiction horror film directed and produced by Ridley Scott and written by John Logan and Dante Harper, from a story by Michael Green and Jack Paglen. A joint American and British production, the film is a sequel to Prometheus (2012) and is the second installment in the Alien prequel series and the sixth installment in the Alien franchise, as well as the third directed by Scott. The film features returning star Michael Fassbender and Katherine Waterston, with Billy Crudup, Danny McBride, and Demián Bichir in supporting roles. It follows the crew of a colony ship that lands on an uncharted planet and makes a terrifying discovery.
+In 2012, prior to the release of Prometheus, Ridley Scott discussed the prospects of a sequel and new trilogy, and the film was confirmed that August. Principal photography began on April 4, 2016, at Milford Sound in Fiordland National Park, New Zealand, and wrapped on July 19, 2016. Effects houses Odd Studios and CreatureNFX provided...
+  </p>
+</div>
+`;
+
+exports[`MovieDetails Storybook stories snapshot tests Story primary 1`] = `
+<div>
+  <h1>
+    Alien: Covenant
+  </h1>
+  <p>
+    <a
+      href="http://en.wikipedia.org/?curid=43219389"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Wikipedia
+    </a>
+  </p>
+  <p>
+    <a
+      href="https://www.imdb.com/title/tt2316204/"
+      rel="noreferrer"
+      target="_blank"
+    >
+      IMDB
+    </a>
+  </p>
+  <div>
+    <button
+      class="MuiButtonBase-root-30 MuiButton-root-1 MuiButton-contained-9 MuiButton-containedSecondary-11"
+      data-testid="similar-movies-button"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label-2"
+      >
+        List similar movies
+      </span>
+      <span
+        class="MuiTouchRipple-root-33"
+      />
+    </button>
+  </div>
+  <p>
+    Alien: Covenant is a 2017 science fiction horror film directed and produced by Ridley Scott and written by John Logan and Dante Harper, from a story by Michael Green and Jack Paglen. A joint American and British production, the film is a sequel to Prometheus (2012) and is the second installment in the Alien prequel series and the sixth installment in the Alien franchise, as well as the third directed by Scott. The film features returning star Michael Fassbender and Katherine Waterston, with Billy Crudup, Danny McBride, and Demián Bichir in supporting roles. It follows the crew of a colony ship that lands on an uncharted planet and makes a terrifying discovery.
+In 2012, prior to the release of Prometheus, Ridley Scott discussed the prospects of a sequel and new trilogy, and the film was confirmed that August. Principal photography began on April 4, 2016, at Milford Sound in Fiordland National Park, New Zealand, and wrapped on July 19, 2016. Effects houses Odd Studios and CreatureNFX provided...
+  </p>
+</div>
+`;

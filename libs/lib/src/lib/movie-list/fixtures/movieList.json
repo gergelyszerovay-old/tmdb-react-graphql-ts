@@ -1,0 +1,478 @@
+[
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 348,
+      "title": "Alien",
+      "rating": 8.1,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 126889,
+      "title": "Alien: Covenant",
+      "rating": 5.9,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 8077,
+      "title": "Alien³",
+      "rating": 6.3,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 593035,
+      "title": "Alien Warfare",
+      "rating": 3.9,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 53,
+            "name": "Thriller"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "TVShowResult"
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 8078,
+      "title": "Alien Resurrection",
+      "rating": 6.1,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 668343,
+      "title": "Alien Outbreak",
+      "rating": 4.1,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 395,
+      "title": "AVP: Alien vs. Predator",
+      "rating": 5.8,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 561859,
+      "title": "Alien Overlords",
+      "rating": 4.6,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 258193,
+      "title": "Alien Abduction",
+      "rating": 5.1,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 53,
+            "name": "Thriller"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "TVShowResult"
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "TVShowResult"
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 25642,
+      "title": "Ben 10 Alien Swarm",
+      "rating": 6.2,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 12,
+            "name": "Adventure"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 312526,
+      "title": "Alien Outpost",
+      "rating": 4.7,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 527014,
+      "title": "Alien Psychosis",
+      "rating": 4.7,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 22076,
+      "title": "Alien Hunter",
+      "rating": 5.2,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 12,
+            "name": "Adventure"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 13954,
+      "title": "Alien Raiders",
+      "rating": 5.3,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 53,
+            "name": "Thriller"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 588209,
+      "title": "Alien: Harvest",
+      "rating": 6.5,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 460962,
+      "title": "Alien Convergence",
+      "rating": 3.7,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__typename": "MovieOrTVOrPeopleEdge",
+    "node": {
+      "__typename": "MovieResult",
+      "id": 548257,
+      "title": "Alien Predator",
+      "rating": 4.4,
+      "details": {
+        "__typename": "DetailedMovie",
+        "genres": [
+          {
+            "__typename": "Genre",
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "__typename": "Genre",
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "__typename": "Genre",
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "__typename": "Genre",
+            "id": 27,
+            "name": "Horror"
+          }
+        ]
+      }
+    }
+  }
+]

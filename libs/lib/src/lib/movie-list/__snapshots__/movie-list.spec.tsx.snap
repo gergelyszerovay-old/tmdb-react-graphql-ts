@@ -1,0 +1,907 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieList Storybook stories snapshot tests Story error 1`] = `
+<div
+  class="MuiPaper-root-19 MuiAlert-root-3 MuiAlert-filledError-15 makeStyles-error-2 MuiPaper-elevation6-28"
+  role="alert"
+>
+  <div
+    class="MuiAlert-icon-16"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root-47 MuiSvgIcon-fontSizeInherit-53"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+      />
+    </svg>
+  </div>
+  <div
+    class="MuiAlert-message-17"
+  >
+    Can't load the movie list from the server!
+  </div>
+</div>
+`;
+
+exports[`MovieList Storybook stories snapshot tests Story primary 1`] = `
+<ul
+  class="MuiList-root-3 makeStyles-root-0 MuiList-padding-4"
+>
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-348"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien (8.1)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-126889"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien: Covenant (5.9)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-8077"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien³ (6.3)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-593035"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Warfare (3.9)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Thriller
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-8078"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Resurrection (6.1)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-668343"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Outbreak (4.1)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-395"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        AVP: Alien vs. Predator (5.8)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Adventure
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-561859"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Overlords (4.6)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-258193"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Abduction (5.1)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Thriller
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-25642"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Ben 10 Alien Swarm (6.2)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Adventure
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-312526"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Outpost (4.7)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Thriller
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-527014"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Psychosis (4.7)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-22076"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Hunter (5.2)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Adventure
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-13954"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Raiders (5.3)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Thriller
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-588209"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien: Harvest (6.5)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-460962"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Convergence (3.7)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+  <div
+    aria-disabled="false"
+    class="MuiButtonBase-root-18 MuiListItem-root-7 MuiListItem-gutters-14 MuiListItem-button-15"
+    data-testid="movie-548257"
+    role="button"
+    tabindex="0"
+  >
+    <div
+      class="MuiListItemText-root-21"
+    >
+      <span
+        class="MuiTypography-root-27 MuiListItemText-primary-25 MuiTypography-body1-29 MuiTypography-displayBlock-56"
+      >
+        Alien Predator (4.4)
+      </span>
+    </div>
+    <div
+      class="makeStyles-genreContainer-1"
+    >
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Action
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Science Fiction
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Adventure
+        </span>
+      </div>
+      <div
+        class="MuiChip-root-57 MuiChip-sizeSmall-58"
+      >
+        <span
+          class="MuiChip-label-79 MuiChip-labelSmall-80"
+        >
+          Horror
+        </span>
+      </div>
+    </div>
+    <span
+      class="MuiTouchRipple-root-94"
+    />
+  </div>
+  <li
+    class="MuiDivider-root-87"
+    role="separator"
+  />
+</ul>
+`;

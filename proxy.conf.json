@@ -1,0 +1,16 @@
+{
+  "/graphql/": {
+    "target": "https://tmdb.apps.quintero.io/",
+    "pathRewrite": { "^/graphql/" : "" },
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/wikipedia/" : {
+    "target": "https://en.wikipedia.org/w/",
+    "pathRewrite": { "^/wikipedia/" : "" },
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}

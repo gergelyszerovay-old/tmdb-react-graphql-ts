@@ -1,0 +1,45 @@
+version: '3.1'
+services:
+  install:
+    image: node:12
+    volumes:
+      - .:/opt/app
+      - node_modules:/opt/app/node_modules
+    working_dir: /opt/app
+    command: npm install
+  app:
+    image: node:12
+    command: npm run docker
+    volumes:
+      - .:/opt/app:delegated
+      - node_modules:/opt/app/node_modules
+    working_dir: /opt/app
+    ports:
+      - 4200:4200
+    tty: true
+  storybook:
+    image: node:12
+    command: npm run docker-storybook
+    volumes:
+      - .:/opt/app:delegated
+      - node_modules:/opt/app/node_modules
+    working_dir: /opt/app
+    ports:
+      - 4400:4400
+    tty: true
+  test-unit:
+    image: node:12
+    command: npm run docker-test
+    volumes:
+      - .:/opt/app:delegated
+      - node_modules:/opt/app/node_modules
+    working_dir: /opt/app
+  test-e2e:
+    image: "cypress/included:3.2.0"
+    entrypoint: npm run docker-e2e
+    volumes:
+      - .:/opt/app:delegated
+      - node_modules:/opt/app/node_modules
+    working_dir: /opt/app/apps/app-e2e
+volumes:
+  node_modules:
